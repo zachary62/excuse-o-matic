@@ -2,6 +2,7 @@ const excuses = [
   "My cat ate my internet.",
   "My keyboard is on strike.",
   "I was debugging my coffee."
+  "My Wi-Fi was emotionally unavailable."
 ];
 
 function getExcuse(index) {
