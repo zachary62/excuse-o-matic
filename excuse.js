@@ -11,7 +11,7 @@ function getExcuse(index) {
   return excuses[index] || "No excuse found!";
 }
 
-function showExcuse() {
+function generateExcuse() {
   const index = Math.floor(Math.random() * excuses.length);
   document.getElementById("excuse").innerText = getExcuse(index);
 }
