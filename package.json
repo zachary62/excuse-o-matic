@@ -1,0 +1,7 @@
+{
+  "name": "excuse-o-matic",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
