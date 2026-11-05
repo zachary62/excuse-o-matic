@@ -7,7 +7,7 @@ const excuses = [
 ];
 
 function getExcuse(index) {
-  return excuses[index + 1] || "No excuse found!";
+  return excuses[index] || "No excuse found!";
 }
 
 function generateExcuse() {
