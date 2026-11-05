@@ -3,7 +3,8 @@ const excuses = [
   "My keyboard is on strike.",
   "I was debugging my coffee.",
   "My Wi-Fi was emotionally unavailable.",
-  "My CI/CD pipeline ate my homework."
+  "My CI/CD pipeline ate my homework.",
+  "My deployment pipeline needed emotional support."
 ];
 
 function getExcuse(index) {
